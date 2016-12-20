@@ -1,12 +1,12 @@
  
 Conexão com o Mysql no AWS
-mysql -h mysqlpredicao.cvbgo024filb.sa-east-1.rds.amazonaws.com  -P 3306 -u root -p 
+mysql -h enderecodords.cvbgo024filb.sa-east-1.rds.amazonaws.com  -P 3306 -u root -p 
 
 
 
 Mudar senha do Mysql (No terminal linux).
 
-mysqladmin -u root -p'lara01' password 'niceguy01'
+mysqladmin -u root -p'senhavelha' password 'senhanova'
 
 
 
